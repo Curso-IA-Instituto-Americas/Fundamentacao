@@ -1,4 +1,4 @@
-# Fundamentação
+# Descrição das bibliotecas utilizadas
 
 ## scikit-learn (sklearn)
 
